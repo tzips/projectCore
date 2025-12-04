@@ -1,0 +1,15 @@
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\bin\Debug\net8.0\PresenceProject.Service.deps.json
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\bin\Debug\net8.0\PresenceProject.Service.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\bin\Debug\net8.0\PresenceProject.Service.pdb
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\bin\Debug\net8.0\PresenceProject.Core.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\bin\Debug\net8.0\PresenceProject.Core.pdb
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\PresenceProject.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\PresenceProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\PresenceProject.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\PresenceProject.Service.AssemblyInfo.cs
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\PresenceProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\Presence.15EAA2C1.Up2Date
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\PresenceProject.Service.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\refint\PresenceProject.Service.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\PresenceProject.Service.pdb
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Service\obj\Debug\net8.0\ref\PresenceProject.Service.dll

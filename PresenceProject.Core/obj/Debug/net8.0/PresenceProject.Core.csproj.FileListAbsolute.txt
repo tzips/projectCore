@@ -1,0 +1,12 @@
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\bin\Debug\net8.0\PresenceProject.Core.deps.json
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\bin\Debug\net8.0\PresenceProject.Core.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\bin\Debug\net8.0\PresenceProject.Core.pdb
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\PresenceProject.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\PresenceProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\PresenceProject.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\PresenceProject.Core.AssemblyInfo.cs
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\PresenceProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\PresenceProject.Core.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\refint\PresenceProject.Core.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\PresenceProject.Core.pdb
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Core\obj\Debug\net8.0\ref\PresenceProject.Core.dll

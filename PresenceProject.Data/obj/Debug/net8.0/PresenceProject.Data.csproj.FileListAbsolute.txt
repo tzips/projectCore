@@ -1,0 +1,17 @@
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\bin\Debug\net8.0\PresenceProject.Data.deps.json
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\bin\Debug\net8.0\PresenceProject.Data.runtimeconfig.json
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\bin\Debug\net8.0\PresenceProject.Data.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\bin\Debug\net8.0\PresenceProject.Data.pdb
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\bin\Debug\net8.0\PresenceProject.Core.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\bin\Debug\net8.0\PresenceProject.Core.pdb
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\PresenceProject.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\PresenceProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\PresenceProject.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\PresenceProject.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\PresenceProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\Presence.4B0E106D.Up2Date
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\PresenceProject.Data.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\refint\PresenceProject.Data.dll
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\PresenceProject.Data.pdb
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\PresenceProject.Data.genruntimeconfig.cache
+C:\Users\user1\Documents\הנדסת תוכנה\netCore\PProject\PresenceProject\PresenceProject.Data\obj\Debug\net8.0\ref\PresenceProject.Data.dll

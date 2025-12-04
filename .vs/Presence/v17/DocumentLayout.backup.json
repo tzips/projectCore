@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A169947-226B-47B6-9C0C-C6F7F8BD4DA0}|PresenceProject\\PresenceProject.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A169947-226B-47B6-9C0C-C6F7F8BD4DA0}|PresenceProject\\PresenceProject.csproj|solutionrelative:presenceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A169947-226B-47B6-9C0C-C6F7F8BD4DA0}|PresenceProject\\PresenceProject.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject\\nlog.config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6A169947-226B-47B6-9C0C-C6F7F8BD4DA0}|PresenceProject\\PresenceProject.csproj|solutionrelative:presenceproject\\nlog.config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4559905-E2C5-4B4F-B3C9-5904948509FC}|PresenceProject.Service\\PresenceProject.Service.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.service\\services\\presenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4559905-E2C5-4B4F-B3C9-5904948509FC}|PresenceProject.Service\\PresenceProject.Service.csproj|solutionrelative:presenceproject.service\\services\\presenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A169947-226B-47B6-9C0C-C6F7F8BD4DA0}|PresenceProject\\PresenceProject.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject\\controllers\\presencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A169947-226B-47B6-9C0C-C6F7F8BD4DA0}|PresenceProject\\PresenceProject.csproj|solutionrelative:presenceproject\\controllers\\presencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\dtos\\presencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\dtos\\presencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\dtos\\presencecreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\dtos\\presencecreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4559905-E2C5-4B4F-B3C9-5904948509FC}|PresenceProject.Service\\PresenceProject.Service.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.service\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4559905-E2C5-4B4F-B3C9-5904948509FC}|PresenceProject.Service\\PresenceProject.Service.csproj|solutionrelative:presenceproject.service\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\interfaces\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\interfaces\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\interfaces\\ileaverequestservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\interfaces\\ileaverequestservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\interfaces\\ipresenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\interfaces\\ipresenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A169947-226B-47B6-9C0C-C6F7F8BD4DA0}|PresenceProject\\PresenceProject.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A169947-226B-47B6-9C0C-C6F7F8BD4DA0}|PresenceProject\\PresenceProject.csproj|solutionrelative:presenceproject\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\dtos\\leaverequestcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\dtos\\leaverequestcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4559905-E2C5-4B4F-B3C9-5904948509FC}|PresenceProject.Service\\PresenceProject.Service.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.service\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4559905-E2C5-4B4F-B3C9-5904948509FC}|PresenceProject.Service\\PresenceProject.Service.csproj|solutionrelative:presenceproject.service\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|c:\\users\\user1\\documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netcore\\pproject\\presenceproject\\presenceproject.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DFEC5-71C8-4803-9D2E-3ECF2D97E9F3}|PresenceProject.Core\\PresenceProject.Core.csproj|solutionrelative:presenceproject.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PresenceController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject\\Controllers\\PresenceController.cs",
+              "RelativeDocumentMoniker": "PresenceProject\\Controllers\\PresenceController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject\\Controllers\\PresenceController.cs",
+              "RelativeToolTip": "PresenceProject\\Controllers\\PresenceController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:55:25.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PresenceService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Service\\Services\\PresenceService.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Service\\Services\\PresenceService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Service\\Services\\PresenceService.cs",
+              "RelativeToolTip": "PresenceProject.Service\\Services\\PresenceService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:17:30.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nlog.config.xml",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject\\nlog.config.xml",
+              "RelativeDocumentMoniker": "PresenceProject\\nlog.config.xml",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject\\nlog.config.xml",
+              "RelativeToolTip": "PresenceProject\\nlog.config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-23T18:18:16.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PresenceCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\PresenceCreateModel.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\DTOs\\PresenceCreateModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\PresenceCreateModel.cs",
+              "RelativeToolTip": "PresenceProject.Core\\DTOs\\PresenceCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:50:49.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\LeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\DTOs\\LeaveRequestDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\LeaveRequestDto.cs",
+              "RelativeToolTip": "PresenceProject.Core\\DTOs\\LeaveRequestDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:12:37.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PresenceDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\PresenceDto.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\DTOs\\PresenceDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\PresenceDto.cs",
+              "RelativeToolTip": "PresenceProject.Core\\DTOs\\PresenceDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:32:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\Mapping.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\Mapping.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\Mapping.cs",
+              "RelativeToolTip": "PresenceProject.Core\\Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:34:28.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject\\Program.cs",
+              "RelativeDocumentMoniker": "PresenceProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject\\Program.cs",
+              "RelativeToolTip": "PresenceProject\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:39:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILeaveRequestServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\Interfaces\\ILeaveRequestServicecs.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\Interfaces\\ILeaveRequestServicecs.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\Interfaces\\ILeaveRequestServicecs.cs",
+              "RelativeToolTip": "PresenceProject.Core\\Interfaces\\ILeaveRequestServicecs.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:52:06.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Service\\Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Service\\Services\\LeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Service\\Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "PresenceProject.Service\\Services\\LeaveRequestService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:26:02.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "PresenceProject\\Controllers\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "PresenceProject\\Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:04:46.83Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\Interfaces\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\Interfaces\\ILeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\Interfaces\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "PresenceProject.Core\\Interfaces\\ILeaveRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:50:58.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPresenceService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\Interfaces\\IPresenceService.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\Interfaces\\IPresenceService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\Interfaces\\IPresenceService.cs",
+              "RelativeToolTip": "PresenceProject.Core\\Interfaces\\IPresenceService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:16:55.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveRequestCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\LeaveRequestCreateModel.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\DTOs\\LeaveRequestCreateModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\LeaveRequestCreateModel.cs",
+              "RelativeToolTip": "PresenceProject.Core\\DTOs\\LeaveRequestCreateModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:17:00.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Service\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Service\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Service\\Services\\TokenService.cs",
+              "RelativeToolTip": "PresenceProject.Service\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:00:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "PresenceProject.Core\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\netCore\\PProject\\PresenceProject\\PresenceProject.Core\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "PresenceProject.Core\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:44:31.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
